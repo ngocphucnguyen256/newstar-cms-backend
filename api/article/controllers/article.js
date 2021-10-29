@@ -8,9 +8,9 @@ module.exports = {
    */
 
   async findOne(ctx) {
-    const { slug } = ctx.params;
+    const { id } = ctx.params;
 
-    const entity = await strapi.services.article.findOne({ slug });
+    const entity = await strapi.services.article.findOne({ id });
     return sanitizeEntity(entity, { model: strapi.models.article });
   },
 };
