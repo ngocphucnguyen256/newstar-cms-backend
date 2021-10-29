@@ -48,6 +48,10 @@
     "categories": {
       "via": "articles",
       "collection": "category"
+    },
+    "ads": {
+      "via": "articles",
+      "collection": "ads"
     }
   }
 }
