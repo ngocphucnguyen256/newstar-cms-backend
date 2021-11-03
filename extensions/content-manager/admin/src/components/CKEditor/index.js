@@ -18,9 +18,6 @@ const Editor = ({ onChange, name, value }) => {
     <Wrapper>
       <CKEditor
         editor={ClassicEditor}
-        previewsInData={true}
-  
-
         data={value}
         onChange={(event, editor) => {
           const data = editor.getData();
