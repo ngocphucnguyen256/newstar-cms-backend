@@ -11,6 +11,8 @@
   },
   "devDependencies": {},
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^31.0.0",
+    "@ckeditor/ckeditor5-react": "^3.0.3",
     "graphql": "^15.6.1",
     "knex": "0.21.18",
     "mime-types": "^2.1.27",
