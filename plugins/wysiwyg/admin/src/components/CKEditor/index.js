@@ -13,12 +13,38 @@ const Wrapper = styled.div`
   }
 `;
 
+const configuration = {
+  toolbar: [
+    'heading',
+    '|',
+    'bold',
+    'italic',
+    'link',
+    'bulletedList',
+    'numberedList',
+    '|',
+    'indent',
+    'outdent',
+    '|',
+    'blockQuote',
+    'insertTable',
+    'mediaEmbed',
+    'undo',
+    'redo',
+  ],
+  mediaEmbed: {
+    previewsInData: true,
+  },
+};
+
 const Editor = ({ onChange, name, value }) => {
   return (
     <Wrapper>
       <CKEditor
         editor={ClassicEditor}
+        config={configuration}
         data={value}
+        onReady={editor => editor.setData(value)}
         onChange={(event, editor) => {
           const data = editor.getData();
           onChange({ target: { name, value: data } });
@@ -35,3 +61,4 @@ Editor.propTypes = {
 };
 
 export default Editor;
+ 
