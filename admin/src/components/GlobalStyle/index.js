@@ -192,7 +192,8 @@ html {
   font-size: 45% !important;
 }
 .jucPIT {
-  padding: 0rem !important;
+  font-size: 1.5rem !important;
+  margin: 0rem !important;
 }
 }
 
@@ -226,20 +227,46 @@ html {
   padding-right: 0rem !important;
   }
   .eoTmEX {
-    padding: 0rem !important;
+    padding: 0.5rem !important;
   }
   .hALcqx > button{
     min-width: 10rem !important;
+  }
+  .jHenPa button svg {
+    width: 1rem !important;
+    height: 1rem !important;
+    font-size: 1rem !important;
+  }
+  .gRKOyR svg:first-of-type{
+    width: 1rem !important;
+    height: 1rem !important;
+    font-size: 1rem !important;
+  }
+  .exSute > div > button, .exSute > div > button.btn {
+    font-size: 1rem !important;
+
+  }
+  .cFyHIb {
+    padding: 0.5rem !important;
   }
 }
 .fcVoQv {
      font-size: 1.5rem !important
 }
+.hpeYUw {
+    font-size: 1.5rem !important
+}
 .ifgYHT {
 font-size: 1.5rem !important;
 }
+.dSZgZT {
+    font-size: 1.1rem !important;
+}
 .dxDZhd{
   font-size: 1.5rem !important;
+}
+.jzvLGf {
+    font-size: 1.3rem !important;
 }
 .koDjzc {
   font-size: 1.5rem !important;
@@ -258,6 +285,15 @@ font-size: 1.5rem !important;
 
 }
 .kDOQRw{
+font-size: 1.5rem !important;
+}
+.jzvLGf {
+font-size: 1.5rem !important;
+}
+.hwafKU {
+font-size: 1.5rem !important;
+}
+.ijxxKf {
 font-size: 1.5rem !important;
 }
 .cZrdSR {
