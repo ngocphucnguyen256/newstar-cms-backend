@@ -201,6 +201,12 @@ html {
 html {
   font-size: 40% !important;
 }
+.hALcqx > button{
+  min-width: 10rem !important;
+}
+.iWSbC th, .iWSbC td{
+  padding: 0rem  !important;
+  }
 }
 
 @media only screen and (max-width: 42em) {
@@ -229,9 +235,7 @@ html {
   .eoTmEX {
     padding: 0.5rem !important;
   }
-  .hALcqx > button{
-    min-width: 10rem !important;
-  }
+
   .jHenPa button svg {
     width: 1rem !important;
     height: 1rem !important;
@@ -337,9 +341,7 @@ font-size: 1.5rem !important;
 .hYPdBC th, .hYPdBC td {
 padding: 0rem  !important;
 }
-.iWSbC th, .iWSbC td{
-padding: 0rem  !important;
-}
+
 .iRAayL {
 font-size: 1.5rem !important;
 }
