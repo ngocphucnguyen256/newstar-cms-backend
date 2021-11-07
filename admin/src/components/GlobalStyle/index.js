@@ -191,6 +191,9 @@ html {
 html {
   font-size: 45% !important;
 }
+.jucPIT {
+  padding: 0rem !important;
+}
 }
 
 @media only screen and (max-width: 52em) {
@@ -222,6 +225,9 @@ html {
   .iZevoV > .row {
   padding-right: 0rem !important;
   }
+  .eoTmEX {
+    padding: 0rem !important;
+  }
   .hALcqx > button{
     min-width: 10rem !important;
   }
@@ -235,7 +241,9 @@ font-size: 1.5rem !important;
 .dxDZhd{
   font-size: 1.5rem !important;
 }
-
+.koDjzc {
+  font-size: 1.5rem !important;
+}
 .drnonq{
 font-size: 1.5rem !important;
 }
