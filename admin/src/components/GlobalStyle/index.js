@@ -249,6 +249,24 @@ html {
   .cFyHIb {
     padding: 0.5rem !important;
   }
+  .dSSiAp{
+    padding: 0.1rem !important;
+  }
+  .fLDKqg .sticky{
+    top: 2rem !important;
+    left: unset !important;
+    right: 0rem !important;
+    width: calc(100% - 24rem) !important;
+    padding-right: 0rem !important;
+  }
+  div.fLDKqg .sticky > div > div.col-sm-6.justify-content-end{
+    padding-right: 0rem !important;
+  }
+  .jucPIT {
+    padding-right: 1rem !important;
+    padding-left: 4.5rem !important;
+    
+  }
 }
 .fcVoQv {
      font-size: 1.5rem !important
