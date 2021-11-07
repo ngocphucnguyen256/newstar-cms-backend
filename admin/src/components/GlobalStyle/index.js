@@ -225,6 +225,7 @@ body{
     }
   .iZevoV > .row {
   padding-right: 0rem !important;
+  }
 }
 .fcVoQv {
        font-size: 1.5rem !important
@@ -273,12 +274,11 @@ font-size: 1.5rem !important;
 ::placeholder {
 font-size: 1.5rem !important;
 }
-.table{
 
-}
 .hYPdBC th, .hYPdBC td {
 padding: 0rem  !important;
 }
+
 .jRuZQN > div > button, .jRuZQN > div > button.btn {
   font-size: 1.5rem !important;
 }
