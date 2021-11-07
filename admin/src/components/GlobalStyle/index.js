@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
 
@@ -172,7 +172,9 @@ const GlobalStyle = createGlobalStyle`
     border: 0;
   }
 
-  //----------------------------------------------------------------//
+/*
+  * Phuc style
+  */
   
 html{
   width: 100%;
@@ -210,7 +212,7 @@ body{
       font-size: 30% !important;
     }
 
-    //menu
+  
     .gAqude {
       width:17rem !important;
     }
@@ -346,7 +348,3 @@ padding: 0rem  !important;
 `;
 
 export default GlobalStyle;
-
-
-
-
